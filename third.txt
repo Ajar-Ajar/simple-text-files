@@ -1,0 +1,3 @@
+some line in the third text file
+
+added more lines
